@@ -1,9 +1,9 @@
 # ISM
 Draft of ISM laboratory asigment on PWr
 
-##Example of endpoints requests:
+## Example of endpoints requests:
 
-###Table module
+### Table module
 
 **POST**
  
@@ -31,7 +31,7 @@ URL: `localhost:8080/table`
  
 URL: `localhost:8080/table/1`
 
-###Reservation module
+### Reservation module
 
 **POST**
  
